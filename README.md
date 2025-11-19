@@ -3,6 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Dibakar Biswas</h1>
+<h2 align="center">Junior Web Dev</h2>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 <h4 align="left">I am a B.Tech Computer Science student studying in India, and my hometown is Jashore, Bangladesh. I am highly focused on web development and continuously working to improve my skills.</h4>
 
